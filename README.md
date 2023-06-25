@@ -1,4 +1,4 @@
-# CS210_12and24HourClock_C-Program
+# CS210_12and24HourClock_Program
 
 Instructions
 Before you submit your project code, you will be able to get feedback from an instant feedback tool (Sense). Sense is not a compiler and should not be used as one. It is designed to give you feedback on how well parts of your code meet assignment requirements and some tips on how you may improve the code that you wrote. The tool will allow you to submit each function that you write for instant feedback on your code for this assignment. This allows you to refine your code before submitting the assignment for grading by your instructor. Note: You may need to write some code that is not covered by the tool based on how you decide to write your program. The feedback covers most of the functional requirements. 
