@@ -16,7 +16,7 @@ Write a function that:
 
  - processes user input from the menu choices in the user interface. Get feedback on how well my function works and tips on how to make it better.
 
- - Wrdisplays BOTH 12- and 24-hour time formats on the interface at the same time. Get feedback on how well my function works and tips on how to make it better.
+ - displays BOTH 12- and 24-hour time formats on the interface at the same time. Get feedback on how well my function works and tips on how to make it better.
    
  - adds a second to your clock’s time. Get feedback on how well my function works and tips on how to make it better.
 
