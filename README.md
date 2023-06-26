@@ -1,6 +1,9 @@
 # CS210 12 and 24 Hour Clock Program
 
-This program Displays two clocks. One clock is on 12 hour time while the other is on 24 hour time. This programs functions increment both clocks at the same time along with changing days at their appropriate times.
+This program Displays two clocks. One clock is on 12 hour time while the other is on 24 hour time. This programs functions increment both clocks at the same time along with changing days at their appropriate times. There are options to increment the clocks by:
+ - one second
+ - one minute
+ - one hour
 
 
 Write a function that: 
